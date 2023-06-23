@@ -5,7 +5,7 @@ import streamlit as st
 
 st.header('st.write')
 
-st.write('Hello, *world!* :sunglaseses:')
+st.write('Hello, *world!* :sunglasses:')
 
 st.write(1234)
 
